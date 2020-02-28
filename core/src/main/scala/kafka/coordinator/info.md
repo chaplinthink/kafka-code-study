@@ -1,0 +1,1 @@
+#### 负责管理部分consumer group和它们的offset。

@@ -1,0 +1,1 @@
+### kafka的管理员模块，操作和管理其topic，partition相关，包含创建，删除topic，或者拓展分区等。

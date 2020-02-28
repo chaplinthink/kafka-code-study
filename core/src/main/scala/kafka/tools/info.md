@@ -1,0 +1,1 @@
+#### 阅读该模块，就是一个工具模块，涉及的内容也比较多。有导出LogSegments信息，以及当前Topic的log写的Location信息；导出Zookeeper上的offset值等内容。

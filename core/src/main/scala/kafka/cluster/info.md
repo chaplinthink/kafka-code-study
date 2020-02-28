@@ -1,0 +1,1 @@
+#### 这里包含多个实体类，有Broker，Cluster，Partition，Replica。其中一个Cluster由多个Broker组成，一个Broker包含多个Partition，一个Topic的所有Partition分布在不同的Broker中

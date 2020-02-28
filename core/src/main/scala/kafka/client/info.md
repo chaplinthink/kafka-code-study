@@ -1,0 +1,1 @@
+#### 该模块下就一个类，producer读取kafka broker元数据信息，topic和分区，以及leader。
